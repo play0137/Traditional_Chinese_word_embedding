@@ -1,4 +1,36 @@
-# Traditional_Chinese_word_embedding
+# Overview
+
+## Chinese Word Embeddings
+- [Chinese_word_embedding_count_based]()
+SVD_700d_ws3_p0.5_SPPMI_k10_skip6_321
+- [Chinese_word_embedding_CBOW]()
+word2vec_500d_CBOW_alpha0025_sample000001_neg2_iter5
+
+## Hyperparameter
+Chinese_word_embedding_count_based  
+Hyperparameter              | best settings
+:--------------------------:|:--------------:
+Frequency weighting         | SPPMI_k10
+Window size                 | 3
+Dimensions                  | 700
+Remove first k dimensions   | 6
+Weighting exponent p        | 0.5
+Discover new words          | no
+
+      
+Chinese_word_embedding_CBOW  
+Hyperparameter              | best settings
+:--------------------------:|:-------------:
+Window size                 | 2
+Dimensions                  | 500
+Model                       | CBOW
+Learning rate (LR)          | 0.025
+Sampling rate (SR)          | 0.00001
+Negative samples (NS)       | 2
+Discover new words          | no
+
+## Evaluation
+See [evaluation](https://github.com/play0137/Traditional_Chinese_word_embedding/tree/master/evaluation)
 
 # References
 If you use this version of Chinese ConceptNet in research or software, please cite this paper:
