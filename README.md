@@ -6,8 +6,8 @@
 
 ## Hyperparameter
 Chinese_word_embedding_count_based  
-Hyperparameter              | best settings
-:--------------------------:|:--------------:
+Hyperparameter              | Setting
+:--------------------------:|:-----------:
 Frequency weighting         | SPPMI_k10
 Window size                 | 3
 Dimensions                  | 700
@@ -17,8 +17,8 @@ Discover new words          | no
 
       
 Chinese_word_embedding_CBOW  
-Hyperparameter              | best settings
-:--------------------------:|:-------------:
+Hyperparameter              | Setting
+:--------------------------:|:----------:
 Window size                 | 2
 Dimensions                  | 500
 Model                       | CBOW
