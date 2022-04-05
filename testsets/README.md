@@ -26,7 +26,7 @@ SimLex_999
 Wordsim_353_similarity
 > E. Agirre, E. Alfonseca, K. Hall, J. Kravalova, M. Pasca and A. Soroa. (2009) "A Study on Similarity and Relatedness Using Distributional and WordNet-based Approaches". Proceedings of NAACL-HLT 2009. 19-27
 
-## Mixed
+## C
 Wordsim_353
 > L. Finkelstein, E. Gabrilovich, Y. Matias, E. Rivlin, Z. Solan, G. Wolfman, and E. Ruppin. (2002). "Placing Search in Context: The Concept Revisited". ACM Transactions on Information Systems, 20(1):116-131
 
