@@ -12,20 +12,20 @@ Frequency weighting         | SPPMI_k10
 Window size                 | 3
 Dimensions                  | 700
 Remove first k dimensions   | 6
-Weighting exponent p        | 0.5
+Weighting exponent          | 0.5
 Discover new words          | no
 
       
 Chinese_word_embedding_CBOW  
-Hyperparameter              | Setting
-:--------------------------:|:----------:
-Window size                 | 2
-Dimensions                  | 500
-Model                       | CBOW
-Learning rate (LR)          | 0.025
-Sampling rate (SR)          | 0.00001
-Negative samples (NS)       | 2
-Discover new words          | no
+Hyperparameter       | Setting
+:-------------------:|:----------:
+Window size          | 2
+Dimensions           | 500
+Model                | CBOW
+Learning rate        | 0.025
+Sampling rate        | 0.00001
+Negative samples     | 2
+Discover new words   | no
 
 ## Evaluation
 See [evaluation](https://github.com/play0137/Traditional_Chinese_word_embedding/tree/master/evaluation)
