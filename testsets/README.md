@@ -1,3 +1,12 @@
+![image info](./gold_standards.png)  
+
+|         |     | c      | Combined   |      |       |            |       |       |
+|---------|-----|--------|------------|------|-------|------------|-------|-------|
+| Dataset | PKU | SimLex | WS353\_sim | MEN  | MTurk | WS353\_rel | WS240 | WS353 |
+| Size    | 494 | 999    | 203        | 2985 | 287   | 252        | 240   | 353   |
+  
+ 
+
 # References
 ## Relatedness
 Bruni_Men_3000
