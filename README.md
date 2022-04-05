@@ -1,10 +1,8 @@
 # Overview
 
 ## Chinese Word Embeddings
-- [Chinese_word_embedding_count_based]()
-SVD_700d_ws3_p0.5_SPPMI_k10_skip6_321
-- [Chinese_word_embedding_CBOW]()
-word2vec_500d_CBOW_alpha0025_sample000001_neg2_iter5
+- [Chinese_word_embedding_count_based](https://mega.nz/file/2RowDQrC#WiZ6z-HdeB7ysN97C_0GIQeXuS7JsX1TDhZOcttPsfg)
+- [Chinese_word_embedding_CBOW](https://mega.nz/file/ScxjgZAA#mhZyzQfRTZWcRatIPiI8e-9Frf4DqV9AGm5gUBf2TgQ)
 
 ## Hyperparameter
 Chinese_word_embedding_count_based  
