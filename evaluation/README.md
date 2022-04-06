@@ -1,6 +1,6 @@
 ## Run the evaluation
 Ensure you have installed [Gensim](https://radimrehurek.com/gensim/) library already.  
-Change the word_embedding_path in Spearman.py to your own path, and run it.
+Change the input_word_embedding_path in Spearman.py to your own path, and run it.
 
 ## Compare to other pre-trained word embeddings
 Calculate the cosine similarity between two word vectors to get their distance in low dimension vector space.  
