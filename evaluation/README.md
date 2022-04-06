@@ -1,5 +1,5 @@
 ## Evaluation
-Change the word_embedding_path in spearman.py to your own path.
+Change the word_embedding_path in Spearman.py to your own path, and run it.
 
 ## Compare to other pre-trained word embeddings
 <p align="left">
