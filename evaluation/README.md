@@ -1,3 +1,6 @@
+## Evaluation
+Change the word_embedding_path in spearman.py to your own path.
+
 ## Compare to other pre-trained word embeddings
 <p align="left">
   <img width="800" height="300" src="./relatedness_compare_to_other_pre_trained_word_embeddings.png">
