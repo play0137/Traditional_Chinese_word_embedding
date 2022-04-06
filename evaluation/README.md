@@ -1,3 +1,9 @@
+## Corpora
+<p align="center">
+  <img width="800" height="300" src="./corpora.png">
+</p>
+
+## Compare to other pre-trained word embeddings
 <p align="center">
   <img width="800" height="300" src="./relatedness_compare_to_other_pre_trained_word_embeddings.png">
 </p>
