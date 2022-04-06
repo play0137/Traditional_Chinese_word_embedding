@@ -4,10 +4,10 @@ import pathlib
 from gensim.models import Word2Vec, KeyedVectors
 
 def main():
-    here = pathlib.Path(__file__).parent.resolve()
     input_word_embedding = r'path_to_your_count_based_word_embedding\SVD_700d_ws3.vec' # count-based
     # input_word_embedding = r'path_to_your_CBOW_word_embedding\word2vec_500d_CBOW.model' # prediction-based
 
+    here = pathlib.Path(__file__).parent.resolve()
     input_testsets = str(here) + r"\testsets"
     file_list = getInputFilesName(input_testsets)
     testset_list = list()
