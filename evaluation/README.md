@@ -1,5 +1,5 @@
 ## Run the evaluation
-Ensure you have installed [Gensim](https://radimrehurek.com/gensim/) library already.  
+Ensure you have installed [Gensim](https://radimrehurek.com/gensim/) >= 4.0.0 library already.  
 Change the input_word_embedding_path in Spearman.py to your own path, and run it.
 
 ## Compare to other pre-trained word embeddings
