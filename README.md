@@ -3,11 +3,12 @@
 # Overview
 
 Use PTT (bulletin board system (BBS) in Taiwan) and Chinese Wiki corpora to build count-based and prediction-based word embeddings.  
-The [evaluation](https://github.com/play0137/Traditional_Chinese_word_embedding/tree/master/evaluation) in similarity/relatedness tasks is better than the other pre-trained word embeddings.  
+The [evaluations](https://github.com/play0137/Traditional_Chinese_word_embedding/tree/master/evaluation) in similarity/relatedness tasks are better than the other pre-trained word embeddings.  
 
 ## Chinese Word Embeddings
-- [Chinese_word_embedding_count_based](https://mega.nz/file/2RowDQrC#WiZ6z-HdeB7ysN97C_0GIQeXuS7JsX1TDhZOcttPsfg)
-- [Chinese_word_embedding_CBOW](https://mega.nz/file/ScxjgZAA#mhZyzQfRTZWcRatIPiI8e-9Frf4DqV9AGm5gUBf2TgQ)
+Download
+- [Chinese_word_embedding_count_based](https://mega.nz/file/OZJAwCSS#AjAg4wSNlJYZ7RrIJWvTdN8KAHGWpYC3TtnuyUDfR8A)
+- [Chinese_word_embedding_CBOW](https://mega.nz/file/WBg22arI#CXf8WuIacWWBJGON8qpR-YKBYfTmRPaMONx5wj3t_Wg)
 
 ## Hyperparameter
 Chinese_word_embedding_count_based  
