@@ -30,7 +30,10 @@ def main():
 
         for i in range(len(testset_list)):
             print(testset_list[i].split('\\')[-1])
-            print(m.wv.evaluate_word_pairs(testset_list[i], delimiter=" ")[1])
+            if file_extension == 'vec':
+                print(m.evaluate_word_pairs(testset_list[i], delimiter=" ")[1])
+            else:
+                print(m.wv.evaluate_word_pairs(testset_list[i], delimiter=" ")[1])
 
         
 # read files
