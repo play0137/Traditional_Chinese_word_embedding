@@ -32,7 +32,7 @@ Sampling rate        | 0.00001
 Negative samples     | 2
 Discover new words   | no
 
-# References
+# Reference
 
 If you use the Chinese word embedding in your works, please cite this paper:
 > Ying-Ren Chen (2021). [Generate coherent text using semantic embedding, common sense templates and Monte-Carlo tree search methods](https://etd.lib.nctu.edu.tw/cgi-bin/gs32/hugsweb.cgi?o=dnthucdr&s=id=%22G021040625840%22.&searchmode=basic) (Master's thesis, National Tsing Hua University, Hsinchu, Taiwan).  
