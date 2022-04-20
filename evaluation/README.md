@@ -24,4 +24,4 @@ Even if the same dimensions (300d), our model still outperforms other pre-traine
   <img width="700" height="300" src="./similarity_compare_to_other_pre_trained_word_embeddings.png">
 </p>
 
-Table A.4 shows the comparison in similarity tasks. Our prediction model has the highest spearman score.
+Table A.4 shows the comparisons in similarity tasks. Our prediction model has the highest spearman score.
